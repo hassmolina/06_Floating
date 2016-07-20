@@ -1,0 +1,21 @@
+div {
+    background-color: orange;
+    width: 300px;
+    border-top: 20px solid purple;
+    border-right: 10px solid purple;
+    border-left: 10px solid purple;
+    border-bottom:20px solid purple;
+    padding: 40px 20px 70px 100px;
+    margin: 120px 60px 30.5px 60px;
+}
+p{
+   border: 3px dashed black;
+   text-align: center;
+   border-radius: 5px;
+   display: inline;
+   padding: 0px;
+   background-color: white;
+}
+body{
+  background-color: gray;
+}

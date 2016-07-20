@@ -1,0 +1,15 @@
+*{
+	height: 100px;
+	width: 100px;
+}
+.primero{
+	background-color: #FC0;
+	height: 100px;
+	width: 100px;
+}
+.segundo{
+	background-color: pink;
+}
+.tercero{
+	background-color: yellow;
+}

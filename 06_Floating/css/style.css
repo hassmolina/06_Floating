@@ -1,0 +1,26 @@
+
+
+.primera{
+ 	background-color: #FC0;
+   	width: 400px;
+   	height: 100px;
+   	float: left;
+
+}
+
+.segunda{
+ 	background-color: blue;
+   	width: 400px;
+   	height: 100px;
+   	float: left;
+
+}
+
+.tercera{
+ 	background-color: pink;
+   	width: 400px;
+   	height: 100px;
+   	float: left;
+   	clear: left;
+}
+
